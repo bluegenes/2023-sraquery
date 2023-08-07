@@ -1,3 +1,4 @@
+[![hackmd-github-sync-badge](https://hackmd.io/Z-DERt3HTxG9nVIeX3wNZA/badge)](https://hackmd.io/Z-DERt3HTxG9nVIeX3wNZA)
 
 ## General info: BigQuery Metadata search
 
