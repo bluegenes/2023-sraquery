@@ -1,0 +1,11 @@
+name: 2023-sraquery
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas>=2,<3
+  - pyarrow
+  - fastparquet
+  - db-dtypes # for SQL types
